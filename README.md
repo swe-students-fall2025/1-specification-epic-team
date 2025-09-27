@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Jasir Nawar - [jawarbx][https://github.com/jawarbx]
+Jean Marck - [jeanmarck12][https://github.com/jeanmarck12]
+John Ovalles - [jmo7728][https://github.com/jmo7728]
+Kazi Hossain - [kazisean][https://github.com/kazisean]
+Matthew Membreno - [m9membreno][https://github.com/m9membreno]
 
 ## Stakeholders
 
