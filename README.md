@@ -54,6 +54,27 @@ Once housing is secured, students need ongoing roommate/landlord communication. 
 
 - **Sabine:** She likes the idea of digitally tracking who owes rent, internet, and groceries.
 
+## Problems or Frustrations
+
+### Current methods of finding roommates feel unsafe or unreliable
+
+Current Platforms (Facebook, Reddit, Craigslist) don't provide adequate screening or compatibility matching due to the nature of these platforms not being tailored for them. They need verification systems in place to expose unsafe or incompatible living situations.
+
+- **Dylan:** Facebook and Craigslist do not feel user friendly when searching for roommates.
+
+### Housing search process feels overwhelming and time consuming
+
+The process of searching multiple websites, contracting different landlords, and coordinating with potential roommates is fragmented and inefficient. Students don't want to waste time managing communications across various platforms. The app needs to prevent the need for synchronizing schedules for viewings and applications, providing a single platform for communication with landlords and roommates.
+
+- **Sabine:** On top of struggling with finding legitimate roommates, you have to juggle emails with several different landlords across different platforms.
+
+### Limited transparency in shared housing costs and responsibilities
+
+Students struggle with unclear expectations about payment arrangements. The app should provide a place where students can avoid conflicts and financial stress when roommates have different understandings of financial obligations.
+
+- **Sabine:** I have heard a ton of stories from friends about payment conflicts, especially since there are times where it has to be upfront.
+- **Dylan:** Initial communication is always going to be minimal since you're still getting to know each other. It usually means that things like splitting electricity costs or buying necessities can be complicated.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
