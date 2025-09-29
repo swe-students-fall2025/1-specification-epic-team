@@ -36,6 +36,24 @@ College students require access to affordable housing, with a location that is e
 
 - **Dylan:** I want the ability as a user to avoid getting lost in apartments that clearly do not find my needs in location and price range.
 
+### To coordinate group housing searches and applications
+
+Once students find potential roommate matches on the app, they need tools to organize group viewings, share property listings, and coordinate application processes.
+
+- **Sabine:** It can be a nightmare getting to arrange viewing times with three or more people. I would use an app that gave the ability to do this effectively and efficiently.
+
+### To verify roommate reliability and safety
+
+Students need to ensure potential roommates are trustworthy and legitimate. The app should include basic verification features, reviews, or references from previous living situations to build confidence from users.
+
+- **Dylan:** It would be great to know their own experiences living with other roommates/apartments.
+
+### To manage sharing housing logistics and expenses
+
+Once housing is secured, students need ongoing roommate/landlord communication. In addition they need information on splitting rent, utilities, and other shared expenses.
+
+- **Sabine:** She likes the idea of digitally tracking who owes rent, internet, and groceries.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
