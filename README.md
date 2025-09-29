@@ -113,8 +113,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 
 ## Activity Diagrams
+- **User Story 2**: As a student with financial limitations, I want to have a list of suitable apartments within my budget so that they are affordable.
+![UML activity diagram of the second user story](./figures/uml_user_story_2.jpg)
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+- **User Story 13**: As a student splitting rent with multiple roommates, I want the app to automatically divide rent and utility bills so that everyone knows exactly what they owe.
+![UML activity diagram of the thirteenth user story](./figures/uml_user_story_13.jpg)
 
 ## Clickable Prototype
 
