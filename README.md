@@ -46,46 +46,46 @@ Once students find potential roommate matches on the app, they need tools to org
 
 Students need to ensure potential roommates are trustworthy and legitimate. The app should include basic verification features, reviews, or references from previous living situations to build confidence from users.
 
-- **Dylan:** It would be great to know their own experiences living with other roommates/apartments.
+- **Dylan:** "It would be great to know their own experiences living with other roommates/apartments."
 
 ### Manage sharing housing logistics and expenses
 
 Once housing is secured, students need ongoing roommate/landlord communication. In addition they need information on splitting rent, utilities, and other shared expenses.
 
-- **Sabine:** She likes the idea of digitally tracking who owes rent, internet, and groceries.
+- **Sabine:** "I likes the idea of digitally tracking who owes rent, internet, and groceries."
 
 ## Problems or Frustrations
 
 ### Current methods of finding roommates feel unsafe or unreliable
 
-Current Platforms (Facebook, Reddit, Craigslist) don't provide adequate screening or compatibility matching due to the nature of these platforms not being tailored for them. They need verification systems in place to expose unsafe or incompatible living situations.
+Current platforms like Facebook, Reddit, and Craigslist aren't tailored for students, so they lack adequate screening and compatibility-matching features. Students need a solution with a robust verification system to help them avoid unsafe or incompatible living situations.
 
-- **Dylan:** Facebook and Craigslist do not feel user friendly when searching for roommates.
+- **Dylan:** "Facebook and Craigslist do not feel user friendly when I am searching for roommates."
 
 ### Housing search process feels overwhelming and time consuming
 
-The process of searching multiple websites, contracting different landlords, and coordinating with potential roommates is fragmented and inefficient. Students don't want to waste time managing communications across various platforms. The app needs to prevent the need for synchronizing schedules for viewings and applications, providing a single platform for communication with landlords and roommates.
+Searching across multiple websites, contacting different landlords, and coordinating with potential roommates is a fragmented and inefficient process. Students don't want to waste time managing communications across various platforms. The app should centralize these interactions, eliminating the need to synchronize schedules for viewings and applications by providing a single platform for all communication.
 
-- **Sabine:** On top of struggling with finding legitimate roommates, you have to juggle emails with several different landlords across different platforms.
+- **Sabine:** "On top of struggling with finding legitimate roommates, you have to juggle emails with several different landlords across different platforms."
 
 ### Limited transparency in shared housing costs and responsibilities
 
 Students struggle with unclear expectations about payment arrangements. The app should provide a place where students can avoid conflicts and financial stress when roommates have different understandings of financial obligations.
 
-- **Sabine:** I have heard a ton of stories from friends about payment conflicts, especially since there are times where it has to be upfront.
-- **Dylan:** Initial communication is always going to be minimal since you're still getting to know each other. It usually means that things like splitting electricity costs or buying necessities can be complicated.
+- **Sabine:** "I have heard a ton of stories from friends about payment conflicts, especially since there are times where it has to be upfront."
+- **Dylan:** "Initial communication is always going to be minimal since you're still getting to know each other. It usually means that things like splitting electricity costs or buying necessities can be complicated."
 
 ### Difficulty assessing roommate capability before committing
 
-Traditional methods don't provide users with a reflective view on their potential roommates' living habits, personalities, and lifestyle preferences. Students want to prevent realistic living situations because they weren't able to evaluate their compatibility.
+Traditional methods fail to provide deep insight into a potential roommate's living habits, personality, and lifestyle preferences. Without the ability to properly evaluate compatibility beforehand, students risk finding themselves in stressful or incompatible living situations.
 
-- **Dylan:** You usually get a sense of inauthenticity when conversing through texts. I would like a more thorough foundation of their kind of lifestyle before I waste my time.
+- **Dylan:** "You usually get a sense of inauthenticity when conversing through texts. I would like a more thorough foundation of their kind of lifestyle before I waste my time."
 
 ### Lack of support for group decision-making in housing decision
 
 Multiple students are trying to choose between different properties, or make group decisions about housing. The app should centralize a method of comparing options, gathering everyone's input, and reaching a consensus. Other platforms aren't streamlined for this and result in delayed decisions and missed opportunities for desired properties.
 
-- **Sabine:** It is naturally a race for some of these apartments. But also you need to be able to discuss the pros and cons with roommates as well.
+- **Sabine:** "It is naturally a race for some of these apartments. But also you need to be able to discuss the pros and cons with roommates as well."
 
 ## Product Vision Statement
 
@@ -93,11 +93,11 @@ At Roomway, we make it safe and simple to find like-minded roommates, so moving 
 
 ## User Requirements
 
-- As a student nervous about compatibility, I want to be matched with a roommate who shares a similar lifestyle to me, so that we can live more comfortably.
-- As a student with financial limitations, I want to have a list of suitable apartments within my budget so that they are affordable.
-- As a student without a car, I want housing options with transportation options nearby so that I can have easy access to campus.
-- As a college student, I want there to be an easy way to communicate with potential roommates, so that we can foster a healthy relationship.
-- As a student unfamiliar with NYC, I want to view neighborhood details alongside listings so that I can make an informed decision about safety and convenience.
+- As a student nervous about compatibility, I want to be matched with a roommate who shares a similar lifestyle, so that we can live together comfortably.
+- As a student with financial limitations, I want to see a list of apartments within my budget, so that I can find a home I can comfortably afford.
+- As a student without a car, I want to see housing options near public transportation, so that I can have easy access to campus.
+- As a college student, I want an easy way to communicate with potential roommates, so that we can start building a good relationship.
+- As a student unfamiliar with NYC, I want to view neighborhood details alongside listings, so that I can make an informed decision about safety and convenience.
 - As a student looking for housing with roommates, I want a shared space where we can post listings and vote on properties so that decision-making is easier and faster.
 - As a student with a tight schedule, I want the app to help coordinate apartment viewings with my potential roommates so that we don’t struggle to align our calendars.
 - As a student applying with roommates, I want tools to complete group applications digitally so that we don’t lose opportunities while waiting on paperwork.
