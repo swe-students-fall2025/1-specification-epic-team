@@ -121,4 +121,4 @@ At Roomway, we make it safe and simple to find like-minded roommates, so moving 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[RoomWay Prototype](https://www.figma.com/proto/1zver1NpNkG2FEtsTUgskR/Wireframe-Prototype)
