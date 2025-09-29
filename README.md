@@ -119,6 +119,29 @@ At Roomway, we make it safe and simple to find like-minded roommates, so moving 
 - **User Story 13**: As a student splitting rent with multiple roommates, I want the app to automatically divide rent and utility bills so that everyone knows exactly what they owe.
 ![UML activity diagram of the thirteenth user story](./figures/uml_user_story_13.jpg)
 
+## Wireframe diagrams
+
+![2FA](./Wireframe_Prototype/2FA.png)
+![Finances - Change Payment Method](./Wireframe_Prototype/Finances%20-%20Change%20Payment%20Method.png)
+![Finances - Change Split](./Wireframe_Prototype/Finances%20-%20Change%20Split.png)
+![Finances - Overview](./Wireframe_Prototype/Finances%20-%20Overview.png)
+![Home](./Wireframe_Prototype/Home.png)
+![ID Verification](./Wireframe_Prototype/ID%20Verification.png)
+![Login](./Wireframe_Prototype/Login.png)
+![preferences](./Wireframe_Prototype/preferences.png)
+![Profile-Details](./Wireframe_Prototype/Profile-Details.png)
+![Profile](./Wireframe_Prototype/Profile.png)
+![Property Search - Confirmation](./Wireframe_Prototype/Property%20Search%20-%20Confirmation.png)
+![Property Search - Messaging](./Wireframe_Prototype/Property%20Search%20-%20Messaging.png)
+![Property Search - Results Page](./Wireframe_Prototype/Property%20Search%20-%20Results%20Page.png)
+![Property Search - Search Page](./Wireframe_Prototype/Property%20Search%20-%20Search%20Page.png)
+![Property Search - Successful Match](./Wireframe_Prototype/Property%20Search%20-%20Successful%20Match.png)
+![Roommates - Messaging](./Wireframe_Prototype/Roommates%20-%20Messaging.png)
+![Roommates - Overview](./Wireframe_Prototype/Roommates%20-%20Overview.png)
+![Roommates - Search Page](./Wireframe_Prototype/Roommates%20-%20Search%20Page.png)
+![Roommates - Successful Match](./Wireframe_Prototype/Roommates%20-%20Successful%20Match.png)
+![Roommates - Details](./Wireframe_Prototype/Roommates-Details.png)
+
 ## Clickable Prototype
 
 [RoomWay Prototype](https://www.figma.com/proto/1zver1NpNkG2FEtsTUgskR/Wireframe-Prototype)
