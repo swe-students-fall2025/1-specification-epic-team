@@ -75,6 +75,18 @@ Students struggle with unclear expectations about payment arrangements. The app 
 - **Sabine:** I have heard a ton of stories from friends about payment conflicts, especially since there are times where it has to be upfront.
 - **Dylan:** Initial communication is always going to be minimal since you're still getting to know each other. It usually means that things like splitting electricity costs or buying necessities can be complicated.
 
+### Difficulty assessing roommate capability before committing
+
+Traditional methods don't provide users with a reflective view on their potential roommates' living habits, personalities, and lifestyle preferences. Students want to prevent realistic living situations because they weren't able to evaluate their compatibility.
+
+- **Dylan:** You usually get a sense of inauthenticity when conversing through texts. I would like a more thorough foundation of their kind of lifestyle before I waste my time.
+
+### Lack of support for group decision-making in housing decision
+
+Multiple students are trying to choose between different properties, or make group decisions about housing. The app should centralize a method of comparing options, gathering everyone's input, and reaching a consensus. Other platforms aren't streamlined for this and result in delayed decisions and missed opportunities for desired properties.
+
+- **Sabine:** It is naturally a race for some of these apartments. But also you need to be able to discuss the pros and cons with roommates as well.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
