@@ -23,32 +23,32 @@ The discussion focused on the interviewee's entry into the NYC housing market as
 
 ## Goals Or Needs
 
-### To find compatible roommates with similar lifestyles and budgets
+### Find compatible roommates with similar lifestyles and budgets
 
 Students need to connect with potential roommates who share their living preferences, social activity, study habits, sleeping patterns, noise regulation, cleanliness standards, and financial capabilities.
 
 - **Sabine:** She would like options to find roommates who take their academic/work commitments seriously, avoiding late nights.
-- **Dylan:** He recommends roommates who are willing to be clear early on about scheduling and splitting fair groceries fairly.
+- **Dylan:** He wants roommates who are clear about scheduling and splitting groceries fairly from the start.
 
-### To discover available rental properties within student budgets
+### Discover available rental properties within student budgets
 
 College students require access to affordable housing, with a location that is either near campus or with good transportation links.
 
-- **Dylan:** I want the ability as a user to avoid getting lost in apartments that clearly do not find my needs in location and price range.
+- **Dylan:** "I want to stop wasting time on apartment listings that don't fit my budget or location requirements."
 
-### To coordinate group housing searches and applications
+### Coordinate group housing searches and applications
 
 Once students find potential roommate matches on the app, they need tools to organize group viewings, share property listings, and coordinate application processes.
 
-- **Sabine:** It can be a nightmare getting to arrange viewing times with three or more people. I would use an app that gave the ability to do this effectively and efficiently.
+- **Sabine:** "It can be a nightmare getting to arrange viewing times with three or more people. I would use an app that gave the ability to do this effectively and efficiently. But having everything in one app would be super helpful"
 
-### To verify roommate reliability and safety
+### Verify roommate reliability and safety
 
 Students need to ensure potential roommates are trustworthy and legitimate. The app should include basic verification features, reviews, or references from previous living situations to build confidence from users.
 
 - **Dylan:** It would be great to know their own experiences living with other roommates/apartments.
 
-### To manage sharing housing logistics and expenses
+### Manage sharing housing logistics and expenses
 
 Once housing is secured, students need ongoing roommate/landlord communication. In addition they need information on splitting rent, utilities, and other shared expenses.
 
