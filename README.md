@@ -11,7 +11,15 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Names
+
+**Sabine Membreno (2nd-year Graduate College Student in NYC)**
+
+My interview was focused on understanding their experiences finding housing and roommates during their graduate studies, as well as current challenges they face with housing arrangements. This allows us as a team to understand the specific needs of a graduate student, such as different schedules, budgets, and living preferences compared to undergraduates. As a result, their six year navigation in the NYC housing market in the midst of academic and work commitments makes them an ideal candidate. It helps us understand the complexity of finding compatible roommates and affordable housing based on our users.
+
+**Dylan Membreno (2nd-year Undergraduate College Student in NYC)**
+
+Throughout the interview process, I involved the discussion around their entry into the NYC housing market recently as a freshman last year. This also includes speaking on their roommate situation and future housing plans. As a sophomore undergraduate student, the team is able to view someone is able to explain what they are looking for with fellow college students in a property with a fresh eye. But in addition, they are able to provide feedback on their current situation roughly a year later into it.
 
 ## Product Vision Statement
 
