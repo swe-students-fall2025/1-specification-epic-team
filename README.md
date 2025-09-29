@@ -93,7 +93,24 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+- As a student nervous about compatibility, I want to be matched with a roommate who shares a similar lifestyle to me, so that we can live more comfortably.
+- As a student with financial limitations, I want to have a list of suitable apartments within my budget so that they are affordable.
+- As a student without a car, I want housing options with transportation options nearby so that I can have easy access to campus.
+- As a college student, I want there to be an easy way to communicate with potential roommates, so that we can foster a healthy relationship.
+- As a student unfamiliar with NYC, I want to view neighborhood details alongside listings so that I can make an informed decision about safety and convenience.
+- As a student looking for housing with roommates, I want a shared space where we can post listings and vote on properties so that decision-making is easier and faster.
+- As a student with a tight schedule, I want the app to help coordinate apartment viewings with my potential roommates so that we don’t struggle to align our calendars.
+- As a student applying with roommates, I want tools to complete group applications digitally so that we don’t lose opportunities while waiting on paperwork.
+- As a graduate student with prior bad roommate experiences, I want to see verified profiles of potential roommates so that I feel safe moving in with someone.
+- As a student worried about scams, I want landlord and property verification so that I don’t waste money on fake listings.
+- As a student moving into shared housing, I want to view references or reviews from past roommates so that I can make a confident choice.
+- As a student splitting rent with multiple roommates, I want the app to automatically divide rent and utility bills so that everyone knows exactly what they owe.
+- As a student living with new roommates, I want shared expenses and responsibilities documented in one place so that we avoid conflicts and confusion.
+- As a student on a strict budget, I want payment reminders for rent and utilities so that I don’t fall behind.
+- As a student searching for housing, I want to compare multiple properties side-by-side so that we can quickly decide which one fits best.
+- As a student with indecisive roommates, I want a voting feature that shows consensus clearly so that we don’t lose housing opportunities.
+- As a student navigating the overwhelming NYC housing market, I want all communication, listings, and decisions centralized in one app so that I don’t waste time on multiple platforms.
+
 
 ## Activity Diagrams
 
