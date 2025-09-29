@@ -1,4 +1,4 @@
-# Specification Phase Exercise
+# Specification Phase Exercise : RoomWay
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
