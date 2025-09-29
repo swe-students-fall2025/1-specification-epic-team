@@ -21,6 +21,21 @@ My interview was focused on understanding their experiences finding housing and 
 
 Throughout the interview process, I involved the discussion around their entry into the NYC housing market recently as a freshman last year. This also includes speaking on their roommate situation and future housing plans. As a sophomore undergraduate student, the team is able to view someone is able to explain what they are looking for with fellow college students in a property with a fresh eye. But in addition, they are able to provide feedback on their current situation roughly a year later into it.
 
+## Goals Or Needs
+
+### To find compatible roommates with similar lifestyles and budgets
+
+Students need to connect with potential roommates who share their living preferences, social activity, study habits, sleeping patterns, noise regulation, cleanliness standards, and financial capabilities.
+
+- **Sabine:** She would like options to find roommates who take their academic/work commitments seriously, avoiding late nights.
+- **Dylan:** He recommends roommates who are willing to be clear early on about scheduling and splitting fair groceries fairly.
+
+### To discover available rental properties within student budgets
+
+College students require access to affordable housing, with a location that is either near campus or with good transportation links.
+
+- **Dylan:** I want the ability as a user to avoid getting lost in apartments that clearly do not find my needs in location and price range.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
